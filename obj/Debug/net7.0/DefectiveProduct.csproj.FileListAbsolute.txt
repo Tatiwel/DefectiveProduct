@@ -31,3 +31,6 @@ S:\Projects\Code\Electron JS\Backv2\DefectiveProduct\DefectiveProduct\obj\Debug\
 S:\Projects\Code\Electron JS\Backv2\DefectiveProduct\DefectiveProduct\obj\Debug\net7.0\DefectiveProduct.pdb
 S:\Projects\Code\Electron JS\Backv2\DefectiveProduct\DefectiveProduct\obj\Debug\net7.0\DefectiveProduct.genruntimeconfig.cache
 S:\Projects\Code\Electron JS\Backv2\DefectiveProduct\DefectiveProduct\obj\Debug\net7.0\ref\DefectiveProduct.dll
+C:\Second_Path\Projects\VS Code\Electron JS\Defective_Product\Back-End\obj\Debug\net7.0\DefectiveProduct.dll
+C:\Second_Path\Projects\VS Code\Electron JS\Defective_Product\Back-End\obj\Debug\net7.0\refint\DefectiveProduct.dll
+C:\Second_Path\Projects\VS Code\Electron JS\Defective_Product\Back-End\obj\Debug\net7.0\DefectiveProduct.pdb

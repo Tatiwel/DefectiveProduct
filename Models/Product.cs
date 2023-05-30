@@ -1,13 +1,15 @@
-namespace DefectiveProduct.Model
+﻿namespace DefectiveProduct.Models
 {
     public class Product
     {
         public int Id { get; set; }
-        public String Item { get; set; }
+        public string Item { get; set; }
         public Supplier Supplier { get; set; }
         public Manufacturer Manufacturer { get; set; }
-        public String Description { get; set; }
+        public string Description { get; set; }
         public int Quantity { get; set; }
+
+        public int isActive { get; set; }
 
         //perguntar
 

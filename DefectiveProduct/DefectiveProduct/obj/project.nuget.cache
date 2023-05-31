@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T1zZ52Jk0wfNoQHZ86E9guCiTbL6H+M0zB4I6eXSy3nqI7QfkznaSND54vpHVYBJe1AG7bhQ0NOFljnUrU6q+A==",
+  "dgSpecHash": "nYNpIrZ7zW72sRkd4Aj24RD4gc60bd2TfrjV6jNtHqJvGDNREv0pjzrnifF+b2YCeHRTUFCY2fd/qJFf5vYSsA==",
   "success": true,
-  "projectFilePath": "S:\\Projects\\Code\\Electron JS\\Backv2\\DefectiveProduct\\DefectiveProduct\\DefectiveProduct.csproj",
+  "projectFilePath": "S:\\Projects\\Code\\Electron JS\\Defective_Product\\Back-End\\DefectiveProduct\\DefectiveProduct\\DefectiveProduct.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
